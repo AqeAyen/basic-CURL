@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/project/curl",
+  "arguments": ["gcc", "-c", "-I/data/data/com.termux/files/usr/include", "-o", "build/.objs/curl_shell/linux/arm64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
